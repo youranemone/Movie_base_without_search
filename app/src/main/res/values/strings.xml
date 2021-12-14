@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">movie base</string>
+    <string name="poster_of_movie">Постер к фильму</string>
+    <string name="most_popular">Самые популярные</string>
+    <string name="top_rated">Наиболее рейтинговые</string>
+    <string name="Program_name">Movie Base</string>
+    <string name="title_label">Название:</string>
+    <string name="original_title_label">Оригинальное название:</string>
+    <string name="rating_label">Рейтинг:</string>
+    <string name="release_date_label">Дата релиза:</string>
+    <string name="discription_label">Описание:</string>
+    <string name="big_poster_discription">BIG_POSTER</string>
+    <string name="add_to_favourite">Добавлено в избранное</string>
+    <string name="remove_from_favourite">Удалено из избранного</string>
+    <string name="itemMain">Главная</string>
+    <string name="itemFavorite">Избранное</string>
+    <string name="playimg">PlayImg</string>
+    <string name="buttonSearch">Button</string>
+    <string name="searchtextbar">SearchTextBar</string>
+    <string name="input_the_movie">Input the Movie</string>
+    <string name="input_the_movies">Input the movie</string>
+    <string name="find">Find</string>
+</resources>
